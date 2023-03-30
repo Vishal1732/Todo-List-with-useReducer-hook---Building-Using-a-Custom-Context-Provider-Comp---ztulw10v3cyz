@@ -7,4 +7,3 @@ const todoReducer = (state, action) => {
 }
 
 export { todoReducer }
-Footer
